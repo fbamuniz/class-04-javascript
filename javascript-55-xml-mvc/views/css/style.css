@@ -1,0 +1,30 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.titulo{
+    background-color: #929292;
+    align-items: center;
+    text-align: center;
+    
+}
+
+.codigo{
+    align-items: center;
+    text-align: center;
+}
+
+table, td, th{    
+    border: 1px dotted #bcbcbc;
+}
+
+img{
+    border-radius: 10px;
+    border: 1px dotted #585858;
+}
+
+.highlight{
+    background-color: #649c8f;
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<conteudo>
+		<postagem codigo="1">
+			<titulo>Título da notícia 1</titulo>
+			<corpo>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quidem voluptate consequatur est fugiat et facere, sed illo fugit dolorem nobis. Maxime aperiam debitis saepe natus voluptatem magni et cupiditate. Dolorum amet necessitatibus tempora iste asperiores, animi voluptatibus illum sit vero in aliquid excepturi illo recusandae natus non? Dignissimos, soluta ab.</corpo>
+			<imagem_1>https://picsum.photos/id/870/150/100</imagem_1>
+		</postagem>
+		<postagem codigo="2">
+			<titulo>Título da notícia 2</titulo>
+			<corpo>Modi repellendus pariatur ipsam. Nihil amet deleniti mollitia aut quae? A magni voluptate, autem excepturi facere repellendus quaerat asperiores? Quos nesciunt rem iure aut, rerum quasi error obcaecati maxime sint earum assumenda, dolorem autem totam ex vero fuga, soluta voluptate! Dolorem odio eius accusantium adipisci totam, cum temporibus consectetur magnam.</corpo>
+			<imagem_1>https://picsum.photos/id/880/150/100</imagem_1>
+		</postagem>
+		<postagem codigo="3">
+			<titulo>Título da notícia 3</titulo>
+			<corpo>Dicta nesciunt libero in cumque deserunt at iusto, dolorum deleniti impedit culpa id perferendis dolor ipsam nulla debitis, nisi autem hic unde blanditiis eaque. Tempore in, porro similique magnam nemo cum corporis error, fugit omnis facilis eum numquam. Dolores dolor, alias natus culpa ipsum quas! Laboriosam sit at veritatis reprehenderit!</corpo>
+			<imagem_1>https://picsum.photos/id/890/150/100</imagem_1>
+		</postagem>
+		<postagem codigo="4">
+			<titulo>Título da notícia 4</titulo>
+			<corpo>Animi assumenda expedita libero ex fugiat repellat cupiditate maiores architecto cumque! Obcaecati recusandae iure suscipit excepturi amet laudantium atque, ut rem totam adipisci quia rerum aut labore quas corporis doloremque distinctio vel quis praesentium numquam beatae illum eveniet? Esse assumenda necessitatibus minus numquam, recusandae perferendis maiores aperiam illum delectus ipsam?</corpo>
+			<imagem_1>https://picsum.photos/id/900/150/100</imagem_1>
+		</postagem>
+		<postagem codigo="5">
+			<titulo>Título da notícia 5</titulo>
+			<corpo>Quas quis fuga odio labore eveniet soluta, nihil pariatur aliquam dolores placeat saepe quos quia natus ipsam exercitationem facilis velit, suscipit similique deserunt! Voluptate dolore officiis molestias praesentium eos earum necessitatibus a ducimus voluptatum pariatur iure quaerat odio distinctio, officia, reprehenderit rem sit tempora. Non nihil eaque iure est nostrum!</corpo>
+			<imagem_1>https://picsum.photos/id/910/150/100</imagem_1>
+		</postagem>
+		<postagem codigo="6">
+			<titulo>Título da notícia 6</titulo>
+			<corpo>Maiores eius ipsam fugit ex autem molestias rem voluptatibus eligendi ab incidunt rerum deleniti veniam aperiam laudantium dolore numquam, neque voluptas quidem quam maxime ipsa nemo repellat perferendis amet? Quos recusandae aspernatur omnis excepturi qui explicabo perferendis a nam. Temporibus nihil consectetur dolores deleniti reiciendis eum nobis ullam, culpa illo.</corpo>
+			<imagem_1>https://picsum.photos/id/940/150/100</imagem_1>
+		</postagem>
+	</conteudo>

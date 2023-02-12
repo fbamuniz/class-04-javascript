@@ -8,6 +8,24 @@ O fundador do JavaScript foi [Brendan Eich](#), que nasceu em 1961 nos Estados U
 
 Eich ficou realmente conhecido por seu trabalho na Netscape e na [Mozilla](#). Na Netscape Communications Corporation, começou a trabalhar em abril de 1995, justamente no JavaScript. Depois ajudou a fundar a Mozilla.org em 1998, atuando como arquiteto-chefe. Quando a AOL desativou a divisão para o navegador Netscape em julho de 2003, Eich ajudou a fomentar a Mozilla Foundation.
 
+Abaixo, um exemplo da sintaxe do JavaScript.
+
+```javascript
+//O setTimeout permite que uma tarefa seja executada em background
+function aCon(){
+    document.getElementById("div-1").innerHTML = "Contando..."
+    tempo = setTimeout(function(){
+        document.getElementById("div-1").innerHTML = "Executou!"
+    }, 5000);
+}
+
+//O clearTimeout cancela a execução do setTimeout
+function pCon(){
+    clearTimeout(tempo);
+    document.getElementById("div-1").innerHTML = "Parado!"
+}
+```
+
 ## A evolução do JavaScript
 O JavaScript tem um papel fundamental na evolução da Web, pois a ideia central da Internet era ser uma plataforma aberta para todos. Foi superimportante que a sua principal linguagem de programação também fosse aberta, sem controle centralizado de corporações e de fácil aprendizado. O JavaScript conseguiu, inclusive, eliminar os temíveis “plug-ins de terceiros” de navegadores, quando vivíamos uma Internet cheia de ferramentas proprietárias e com a performance ruim. A principal vantagem é que todos os navegadores competiam por uma implementação mais rápida de JavaScript; enquanto isso, os desenvolvedores e os usuários saíam ganhando, daí o JS ficou cada vez melhor por causa dessa concorrência em cima do mesmo produto.
 

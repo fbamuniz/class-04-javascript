@@ -52,9 +52,9 @@ class Carro{
 }
 ```
 
-No vídeo abaixo da Laryssa Magalhães, é apresentado um pequeno resumo do que é o JavaScript e sua aplicabilidade. 
+No vídeo abaixo da IlustraDev, é apresentado um pequeno resumo do que é o JavaScript e sua aplicabilidade. 
 
-[![Assista ao vídeo](https://img.youtube.com/vi/LLR87wkO8Ng/maxresdefault.jpg)](https://www.youtube.com/watch?v=LLR87wkO8Ng)
+[![Assista ao vídeo](https://img.youtube.com/vi/IJvVx2HMbNk/maxresdefault.jpg)](https://www.youtube.com/watch?v=IJvVx2HMbNk)
 
 ## Referências
 

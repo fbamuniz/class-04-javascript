@@ -59,7 +59,7 @@ No vídeo abaixo da IlustraDev, é apresentado um pequeno resumo do que é o Jav
 ## Referências
 
 - JavaScript. Mozilla, disponível em: [https://developer.mozilla.org](https://developer.mozilla.org/pt-BR/docs/Glossary/JavaScript). Acesso em: 28 de jan. de 2023.
-- JavaScript – 20 anos de história e construção da web. iMasters, disponível em: [https://imasters.com.br](https://imasters.com.br/front-end/javascript-20-anos-de-historia-e-construcao-da-web). Acesso em: 28 de jan. de 2023.
+- JavaScript, 20 anos de história e construção da web. iMasters, disponível em: [https://imasters.com.br](https://imasters.com.br/front-end/javascript-20-anos-de-historia-e-construcao-da-web). Acesso em: 28 de jan. de 2023.
 
 ## Como executar
 

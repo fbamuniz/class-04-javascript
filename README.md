@@ -69,7 +69,7 @@ Pré-requisitos:
 
 ```bash
 # clonar repositório
-git clone https://github.com/fbamuniz/class-03-javascript.git
+git clone https://github.com/fbamuniz/class-04-javascript.git
 
 ```
 

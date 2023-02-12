@@ -1,9 +1,8 @@
-# Javascript
+# JavaScript
 ![NPM](https://img.shields.io/npm/l/react)
 # Introdução
 
-O início do JS há 20 anos
-O JavaScript foi originalmente desenvolvido sob o nome de Mocha, posteriormente teve seu nome modificado para LiveScript e, por fim, JavaScript. LiveScript foi o nome oficial da linguagem quando ela foi lançada pela primeira vez na versão beta do navegador Netscape 2.0, em setembro de 1995, mas teve seu nome alterado em um anúncio conjunto com a Sun Microsystems, em dezembro do mesmo ano, quando foi implementado no navegador Netscape, versão 2.0B3.
+O JavaScript foi originalmente desenvolvido sob o nome de Mocha, posteriormente teve seu nome modificado para LiveScript e, por fim, JavaScript. LiveScript foi o nome oficial da linguagem quando ela foi lançada pela primeira vez na versão beta do navegador Netscape 2.0, em setembro de 1995, mas teve seu nome alterado em um anúncio conjunto com a [Sun Microsystems](), em dezembro do mesmo ano, quando foi implementado no navegador Netscape, versão 2.0B3.
 
 O fundador do JavaScript foi Brendan Eich, que nasceu em 1961 nos Estados Unidos. O programador iniciou sua carreira na Silicon Graphics, trabalhando por sete anos em sistemas operacionais e sistemas de rede. Depois atuou por três anos na MicroUnity Systems Engineering, escrevendo microkernels e códigos para DSPs, bolando a primeira portagem do compilador GCC para MIPS R4000.
 

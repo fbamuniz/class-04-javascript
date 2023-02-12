@@ -37,7 +37,20 @@ A [ECMA](#) (European Computer Manufacturers Association) é uma organização s
 ## A versão ES6 (ou ES2015).
 O JavaScript sempre teve sua força na Web e no servidor, e isso se tornou um diferencial, mas com o avanço tecnológico algumas dúvidas pairam no ar sobre a evolução da linguagem. Desenvolvedores apostam fortemente em tendências que devem acompanhar o JavaScript, como a de aplicativos para desktop, que, por incrível que pareça, já é um novo nicho de desenvolvimento utilizando a linguagem (como Spotify etc.). Hoje o JavaScript conta com classes, módulos, templates, promisses e destructuring; conceitos que realmente faziam falta para os desenvolvedores. 
 
-
+Abaixo, um exemplo de código JavaScript, utilizando o paradigma de classes:
+```javascript
+//Criando uma "fábrica" de objetos Carro
+class Carro{
+    constructor(valor1, valor2, valor3){
+        this.marca = valor1;
+        this.modelo = valor2;
+        this.ano = valor3;
+    }
+    buzinar(){
+        return this.modelo + ": Som!";
+    }
+}
+```
 
 No vídeo abaixo da Hostinger Brasil, é apresentado um pequeno resumo do que é o jQuery e sua aplicabilidade. 
 

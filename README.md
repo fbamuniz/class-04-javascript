@@ -61,24 +61,30 @@ No vídeo abaixo da IlustraDev, é apresentado um pequeno resumo do que é o Jav
 - JavaScript. Mozilla, disponível em: [https://developer.mozilla.org](https://developer.mozilla.org/pt-BR/docs/Glossary/JavaScript). Acesso em: 28 de jan. de 2023.
 - JavaScript – 20 anos de história e construção da web. iMasters, disponível em: [https://imasters.com.br](https://imasters.com.br/front-end/javascript-20-anos-de-historia-e-construcao-da-web). Acesso em: 28 de jan. de 2023.
 
-# Como executar
+## Como executar
 
-## Front end Web
 Pré-requisitos: 
 - Visual Studio Code
 - GIT
 
 ```bash
 # clonar repositório
-git clone https://github.com/fbamuniz/class-04-jquery3.git
+git clone https://github.com/fbamuniz/class-03-javascript.git
 
 ```
 
-## Bibliografia das aulas
-
+## Bibliografia Básica 
+- MEYER, E. S. CSS - técnicas profissionais para um layout moderno. Porto Alegre: Bookman, 2011.
+- POWERS, S. Aprendendo JavaScript. São Paulo: Novatec, 2010.
+- PETRUCELLI, E. E. HTML5, CSS e JavaScript. Brasília: NT Editora, 2019.
 - DUCKETT, J. HTML e CSS: Projete e Construa Websites. Rio de Janeiro: Alta Books. 2016.
-- MEYER, E. S. CSS – técnicas profissionais para um layout moderno. Porto Alegre: Bookman, 2011.
+- SILVERMAN, R.E. Git: Guia prático. São Paulo: Novatec, 2019.
+- GRINBERG, M. Desenvolvimento web com Flask: Desenvolvendo aplicações web com Python. São Paulo: Novatec, 2019.
 
+## Bibliografia Complementar:
+- GOMES, A. L. XHTML/CSS: criação de páginas web (Informática). São Paulo: Editora Senac, 2019.
+- QUIERELLI, D. A. Criando sites com HTML-CSS-PHP: Construindo um projeto - Iniciante. Joinville: Clube dos Autores, 2012.
+- TITTEL, E., NOBLE, J. HTML, XHTML e CSS Para Leigos. Rio de Janeiro: Alta Books, 2014
 
 # Autor
 

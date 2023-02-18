@@ -10,6 +10,6 @@ console.log(lista2);
 const lista3 = ["Médio", "Técnico", "Superior"];
 console.log(lista3);
 
-//Troca o separador entre os valores do array
+//Transforma o array em uma String e possibilita trocar o separador entre os valores do array
 document.getElementById("div-1").innerHTML = lista1.join(" * ");
 console.log(lista1);

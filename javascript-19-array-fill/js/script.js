@@ -10,6 +10,6 @@ console.log(lista2);
 const lista3 = ["Médio", "Técnico", "Superior"];
 console.log(lista3);
 
-//O método fill subtitui todos os itens
-lista1.fill("Fred");
+//Subtitui todos os valores. A segundo argumento informa a partir de qual índice ocorrerá a substituição
+lista1.fill("Fred",0);
 console.log(lista1);

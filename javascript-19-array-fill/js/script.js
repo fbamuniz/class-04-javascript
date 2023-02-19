@@ -10,6 +10,6 @@ console.log(lista2);
 const lista3 = ["Médio", "Técnico", "Superior"];
 console.log(lista3);
 
-//Subtitui todos os valores. A segundo argumento informa a partir de qual índice ocorrerá a substituição
-lista1.fill("Fred",0);
+//Subtitui todos os valores. O segundo argumento informa a partir de qual índice ocorrerá a substituição e o terceiro onde ele deve parar. Logo, ambos formam o intervalo da modificação
+lista1.fill("Fred",0,0);
 console.log(lista1);

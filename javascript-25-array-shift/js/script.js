@@ -13,3 +13,9 @@ console.log(lista3);
 //Remove o item da primeira posição do array e altera todos os índices
 lista1.shift();
 console.log(lista1);
+
+/*
+//Testar unshift
+lista1.unshift();
+console.log(lista1);
+*/
